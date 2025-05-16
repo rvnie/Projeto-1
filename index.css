@@ -1,4 +1,17 @@
 .banner{ 
     width: 100%;
     background: url();
+    background-size: 100%;
+    background-position-x:center ;
+    background-repeat: no-repeat;
+}
+.margin{
+    margin-bottom: 0;
+}
+.padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.praia{
+    width: 30%;
 }
